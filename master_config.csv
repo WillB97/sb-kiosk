@@ -1,9 +1,9 @@
-device,hostname,url,autossh_port,ntp_server,asset
+device,hostname,url,autossh_port,ntp_server,asset,wifi_mac
 default,kiosk,"file:///home/pi/mac.html",0,venue,
 e4:5f:01:90:e3:7d,pi-zone-0,"venue/arena.html?main,0",0,venue,Y1P16
 e4:5f:01:90:df:a9,pi-zone-3,"venue/arena.html?main,3",0,venue,Y1V2Y
 e4:5f:01:90:ed:ff,pi-staging,"venue/staging.html",0,venue,Y1W10
 e4:5f:01:90:ed:ce,pi-zone-2,"venue/arena.html?main,2",0,venue,Y1N25
 e4:5f:01:90:ed:64,pi-zone-1,"venue/arena.html?main,1",0,venue,Y1Q4Y
-e4:5f:01:90:ed:4a,pi-outside-Y1R30,"public/outside.html",0,public,Y1R30
-e4:5f:01:90:ee:32,pi-outside-Y1L43,"public/outside.html",0,public,Y1L43
+e4:5f:01:90:ed:4a,pi-outside-Y1R30,"public/outside.html",0,public,Y1R30,e4:5f:01:90:ed:4b
+e4:5f:01:90:ee:32,pi-outside-Y1L43,"public/outside.html",0,public,Y1L43,e4:5f:01:90:ee:34
