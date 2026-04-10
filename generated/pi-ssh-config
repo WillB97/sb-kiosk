@@ -18,21 +18,21 @@ Host autossh_host
 Host pi-zone-0.lan
     HostName pi-zone-0.lan
 
-Host pi-zone-3.lan
-    HostName pi-zone-3.lan
-
-Host pi-staging.lan
-    HostName pi-staging.lan
+Host pi-zone-1.lan
+    HostName pi-zone-1.lan
 
 Host pi-zone-2.lan
     HostName pi-zone-2.lan
 
-Host pi-zone-1.lan
-    HostName pi-zone-1.lan
+Host pi-zone-3.lan
+    HostName pi-zone-3.lan
 
 Host pi-outside-y1r30.lan
     HostName pi-outside-y1r30.lan
 
 Host pi-outside-y1l43.lan
     HostName pi-outside-y1l43.lan
+
+Host pi-staging.lan
+    HostName pi-staging.lan
 
